@@ -8,7 +8,7 @@
 
 | Event Logo | Event Name | Event Description |
 |------------|------------|-------------------|
-| <img src="cyberdefense.jpg" width="200" height="auto" loading="lazy" alt="CyberDefense 2024"/> | CyberDefense 2024 | CyberDefense is an annual conference promoting advancements in digital security, bringing together global experts to discuss the latest cybersecurity technologies and innovations. |
+| <img src="" width="200" height="auto" loading="lazy" alt="HacktoberFest 2024"/> | HacktoberFest 2024 | HacktoberFest is an annual conference promoting advancements in Open Source, bringing together global experts to discuss the latest technologies and innovations. |
 
 <br />
 
